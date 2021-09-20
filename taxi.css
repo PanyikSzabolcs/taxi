@@ -1,0 +1,12 @@
+.bio {
+    float: left;
+    width: 400px;
+    border-radius: 3px;
+    border-style: solid;
+    border-color: yellow;
+    background-color: lightgray;
+}
+
+p{
+    text-align: justify;
+}
