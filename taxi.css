@@ -10,3 +10,11 @@
 p{
     text-align: justify;
 }
+.right {
+    float: right;
+}
+
+a {
+    color: yellow;
+    
+}
